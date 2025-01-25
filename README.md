@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amandine, but you can call me Amy</h1> 
+<h1 align="center">Hi <img src="giphycat.gif" width="100">, I'm Amandine, but you can call me Amy</h1> 
 <h3 align="center">A passionate Data Analyst from France, now living in Berlin.</h3>
 <img src="daftpunktocat.gif" width="200" height="200">
 
