@@ -14,9 +14,7 @@
 
 - 🤝 I’m looking for help with **dbt**
 
-- 💬 Ask me about **neurosciences, DnD and cooking**
-
-- 📫 How to reach me **croset.amandine@gmail.com**
+- 💬 Ask me about **neurosciences, DnD, cooking and movies**
 
 - ⚡ Fun fact **I am a cinephile**
 
