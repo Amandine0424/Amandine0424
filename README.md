@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amandine, but you can call me Amy</h1> 
 <h3 align="center">A passionate Data Analyst from France, now living in Berlin.</h3>
+<img src="daftpunktocat.gif" width="200" height="200">
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amandine0424" alt="amandine0424" /></a> </p>
 
