@@ -8,13 +8,11 @@
 ###
 ## <h3 align="left">About me</h3>
 
-- 🔭 I’m currently working on **...**
+- 🔭 I’m currently working on **a wine and dish pairing app**
 
 - 🌱 I’m currently learning **dbt, AWS**
 
 - 👯 I’m looking to collaborate on **Product Analytics projects**
-
-- 🤝 I’m looking for help with **dbt**
 
 - 💬 Ask me about **neurosciences, DnD, cooking and movies**
 
