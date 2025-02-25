@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **neurosciences, DnD, cooking and movies**
 
-- ⚡ Fun fact **I am a cinephile**
+- ⚡ Fun fact **Though I was born in France, I've never been to Paris**
 
 ###
 
